@@ -4,7 +4,7 @@
 - 💬 Ask me about BackEnd Development
 - 📫 How to reach me: bekhruzrakhmonov2@gmail.com
 
-### Skills
+<!--### Skills
 
 - #### Languages
   - Python (mostly)
@@ -14,6 +14,7 @@
 - #### Frameworks and libraries
   - Django (DRF)
   - React.js
+  - Express.js
   - Gin Gonic
  
 - #### Databases
@@ -26,3 +27,4 @@
 - #### Others
   - Nginx
   - Machine Learning
+-->
