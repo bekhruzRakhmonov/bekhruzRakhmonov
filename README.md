@@ -1,12 +1,28 @@
 ### Hi there 👋
 
-**bekhruzRakhmonov/bekhruzRakhmonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m Backend Developer
 - 💬 Ask me about BackEnd Development
 - 📫 How to reach me: bekhruzrakhmonov2@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+### Skills
+
+- #### Languages
+  - Python (mostly)
+  - Javascript (sometimes)
+  - GO (sometimes)
+
+- #### Frameworks and libraries
+  - Django (DRF)
+  - React.js
+  - Gin Gonic
+ 
+- #### Databases
+  - PostgreSql
+  - Sqlite3
+
+- #### No SQL Databases
+  - MongoDB
+
+- #### Others
+  - Nginx
+  - Machine Learning
