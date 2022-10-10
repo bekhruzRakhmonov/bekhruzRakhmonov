@@ -4,6 +4,15 @@
 - 💬 Ask me about BackEnd Development
 - 📫 How to reach me: bekhruzrakhmonov2@gmail.com
 
+### Portfolio
+- #### https://vidoctor.uz
+  - ##### Bakcend
+    - Python/Django
+  - ##### Frontend
+    - JavaScript
+    - HTML
+    - CSS
+    - Bootstrap4
 <!--### Skills
 
 - #### Languages
