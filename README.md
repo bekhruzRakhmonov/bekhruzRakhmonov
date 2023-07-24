@@ -4,7 +4,7 @@
 - 💬 Ask me about BackEnd Development
 - 📫 How to reach me: bekhruzrakhmonov2@gmail.com
 
-### Portfolio Projects
+<!--### Portfolio Projects
 - #### iDoctor (https://vidoctor.uz/)
   - ##### Bakcend
     - Python/Django
@@ -20,21 +20,24 @@
     - JavaScript
     - HTML
     - CSS
-    - Bootstrap4
-<!--### Skills
+    - Bootstrap4 -->
+### Skills
 
 - #### Languages
   - Python (mostly)
-  - Javascript (sometimes)
+  - Node.js (mostly)
   - GO (sometimes)
 
 - #### Frameworks and libraries
   - Django (DRF)
   - React.js
+  - Nestjs
   - Express.js
+  - GraphQL
   - Gin Gonic
  
 - #### Databases
+  - MySql
   - PostgreSql
   - Sqlite3
 
@@ -42,6 +45,6 @@
   - MongoDB
 
 - #### Others
+  - Docker
   - Nginx
   - Machine Learning
--->
