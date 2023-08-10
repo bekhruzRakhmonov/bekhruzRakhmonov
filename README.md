@@ -26,6 +26,7 @@
 - #### Languages
   - Python (mostly)
   - Node.js (mostly)
+  - Ruby (mostly)
   - GO (sometimes)
 
 - #### Frameworks and libraries
@@ -34,6 +35,7 @@
   - Nestjs
   - Express.js
   - GraphQL
+  - Ruby on Rails
   - Gin Gonic
  
 - #### Databases
