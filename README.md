@@ -40,8 +40,6 @@
  
 - #### Databases
   - MySql
-  - PostgreSql
-  - Sqlite3
 
 - #### No SQL Databases
   - MongoDB
