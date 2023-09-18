@@ -23,7 +23,7 @@
     - Bootstrap4 -->
 ### Skills
 
-- #### Languages
+- #### Programming Languages
   - Python (mostly)
   - Node.js (mostly)
   - Ruby (mostly)
