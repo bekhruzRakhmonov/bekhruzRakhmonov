@@ -1,7 +1,7 @@
 **Bekhruzbek Rakhmonov**
-**GitHub**: [github.com/yourusername](https://github.com/yourusername)
+**GitHub**: [github.com/bekhruzRakhmonov](https://github.com/bekhruzRakhmonov)
 **Email**: bekhruzbekrakhmonov1@gmail.com
-**LinkedIn**: [linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/yourlinkedin)
+**LinkedIn**: [linkedin.com/in/bekhruzbekrakhmonov](https://www.linkedin.com/in/bekhruzbekrakhmonov)
 
 **SKILLS**
 - **Programming Languages**: C, Java, Python, TypeScript, JavaScript, Ruby, Go
