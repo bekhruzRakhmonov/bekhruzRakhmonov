@@ -1,5 +1,5 @@
 ## Bekhruzbek Rakhmonov
-**GitHub**: [github.com/bekhruzRakhmonov](https://github.com/bekhruzRakhmonov) <br />
+**GitHub**: [github.com/bekhruzbekRakhmonov](https://github.com/bekhruzbekRakhmonov) <br />
 **Email**: bekhruzbekrakhmonov1@gmail.com <br />
 **LinkedIn**: [linkedin.com/in/bekhruzbekrakhmonov](https://www.linkedin.com/in/bekhruzbekrakhmonov)
 
